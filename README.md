@@ -16,3 +16,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![Screenshot_159](https://user-images.githubusercontent.com/65489223/114341993-f521d680-9b95-11eb-8220-21e8f0086a4b.png)
+
+
+<https://pub.dev/packages/animated_text_kit>
+<https://www.pexels.com/ko-kr/search/%EC%98%B7/>
+<https://api.flutter.dev/flutter/widgets/Text-class.html>
+<https://dartpad.dev/?null_safety=true>
